@@ -1,0 +1,3 @@
+/Users/ck-intosh/Downloads/blockfruit-miner/build/CMakeFiles/BlockFruit.dir
+/Users/ck-intosh/Downloads/blockfruit-miner/build/CMakeFiles/edit_cache.dir
+/Users/ck-intosh/Downloads/blockfruit-miner/build/CMakeFiles/rebuild_cache.dir

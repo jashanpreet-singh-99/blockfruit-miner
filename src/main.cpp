@@ -1,5 +1,5 @@
 #include <iostream>
-#include "utils/terminal.h"
+#include "terminal.h"
 
 int main() {
     std::cout << "Welcome to miner" << std::endl;

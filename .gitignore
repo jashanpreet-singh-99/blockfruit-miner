@@ -33,3 +33,6 @@
 
 # Remove bazel builds
 bazel-*
+
+# Vs-Code
+.vscode
