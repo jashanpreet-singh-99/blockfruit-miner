@@ -1,0 +1,18 @@
+{
+    "worker_name": "test_block_fruit",
+    "wallet": "spectre:qqcfuf9ehqfl90qulkyhn0mn9udrptqrwtzsv64r0tc6eshcymg4w9tmrn67z",
+    "algo": "spectre",
+    "threads": 6,
+    "node": {
+        "server_ip": "10.0.0.45",
+        "port": 5000
+    },
+    "monitoring": {
+        "enabled": true,
+        "server_ip": "10.0.0.45",
+        "port": 5620
+    },
+    "features": {
+        "logging": false
+    }
+}

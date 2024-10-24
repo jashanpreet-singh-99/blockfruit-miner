@@ -1,1 +1,0 @@
-clang++ -O3 -DNDEBUG -Wno-deprecated -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/BlockFruit.dir/src/main.cpp.o CMakeFiles/BlockFruit.dir/src/utils/terminal.cpp.o -o BlockFruit
